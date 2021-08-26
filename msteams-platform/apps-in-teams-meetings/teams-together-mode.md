@@ -9,6 +9,8 @@ ms.topic: conceptual
 > [!NOTE]
 > This feature is currently available in [public developer preview](../resources/dev-preview/developer-preview-intro.md) only.
 
+Together Mode allows you to view your meetings in a different format.
+
 Custom Together Mode scenes in Microsoft Teams provide an immersive and engaging meeting environment with the following actions:
 
 * Bring people together and encourage them to turn on their video. 
